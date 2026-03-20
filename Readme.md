@@ -40,6 +40,7 @@ Colocamos o nome da nossa máquina.
 
 ***Decimo Passo***
 ![Passo 10](image10.png)
+
 Se estiver vazio, mantém. Se estiver preenchido, mantém também.
 
 ***Decimo Primeiro Passo***
@@ -52,6 +53,7 @@ Configuramos um nome para o novo usuário, coloque o seu.
 
 ***Decimo Terceiro Passo***
 ![Passo 13](image13.png)
+
 Esse é para colocar o nome do usuário da sua conta
 
 ***Decimo Quarto Passo***
