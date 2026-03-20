@@ -10,6 +10,7 @@ Colocamos o nome da nossa máquina “Debian”, pegamos a imagem iso e selecion
 
 ***Terceiro Passo***
 ![Passo 3](image3.png)
+
 Vimos a quantidade de memória e de processadores para poder rodar o mínimo decente no debian.
 
 ***Quarto Passo***
@@ -102,6 +103,7 @@ Selecionamos “Brasil” e continuamos.
 
 ***Vigesimo Quinto Passo***
 ![Passo 25](image25.png)
+
 Não colocamos informações, deixe em branco.
 
 ***Vigesimo Sexto Passo***
@@ -111,6 +113,7 @@ Selecionamos “Não” e continuamos.
 
 ***Vigesimo Setimo Passo***
 ![Passo 27](image27.png)
+
 Aqui são os ambientes para ser instalados no sistema, selecionamos o ambiente do desktop que escolhemos. Após isso, vai aparecer uma tela de carregamento, espera terminar de instalar.
 
 ***Vigesimo Oitavo Passo***
